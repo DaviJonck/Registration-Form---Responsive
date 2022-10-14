@@ -1,5 +1,4 @@
 # Registration_Form_Responsive
-# Project Build during the Next Week Event from Rocketseat.
 
 ## Technologies  🧑‍💻 
 
